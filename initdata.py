@@ -11,3 +11,4 @@ db["tom"] = tom
 if __name__ == "__main__": # если запускается, как сценарий
     for key in db:
         print(key, "=>\n ", db[key])
+input()
