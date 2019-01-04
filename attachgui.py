@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter001 import MyGui
+
 # главное окно приложения
 mainwin = Tk()
 Label(mainwin, text=__name__).pack()
